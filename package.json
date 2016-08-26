@@ -1,0 +1,13 @@
+{
+  "name": "humley-javascript-ai-assistant-framework",
+  "version": "1.0.0",
+  "description": "Javascript and HTML Layout",
+  "main": "app/AiAssistant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Humley",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
