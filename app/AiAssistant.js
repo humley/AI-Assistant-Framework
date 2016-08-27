@@ -11,7 +11,6 @@ function HumleyAiAssistant(username, password, HumleyId){
       console.error('Humley Conversation Bot is not defined');
       return;
     }
-    localStorage.setItem('humleyId', id);
     var id = localStorage.getItem('humleyId');
     if (localStorage.getItem('humleyId') == undefined) {
       id = guid();
